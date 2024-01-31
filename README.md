@@ -1,4 +1,4 @@
-### git add . && git commit -m "Add more bugs :bug: to fix later" && git push --force main
+### git add . && git commit -m "Add more bugs 🐛 to fix ⚒️ later 🕐" && git push --force main
 ![This is fine](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
 <div align="left">
