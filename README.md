@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=juuh42dias&abbreviated=true" />
+
 ### git add . && git commit -m "Add more bugs 🐛 to fix ⚒️ later 🕐" && git push --force main
 ![This is fine](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
