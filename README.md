@@ -16,3 +16,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
 </div>
+
+#
+<span>
+  Work: 👩‍💻☕ <a href="https://www.reddit.com/r/cscareerquestions/comments/lo85pt/what_exactly_do_you_mean_by_swe/">SWE</a> <i>at</i> <a href="https://www.linkedin.com/company/current-company/about/">current_company</a>
+</span>
+</br>
+<span>
+  www: 🌎 <a href="juliana.dev">juliana.dev</a>
+</span>
