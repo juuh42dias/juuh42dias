@@ -23,5 +23,5 @@
 </span>
 </br>
 <span>
-  WWW: 🌎 <a href="juliana.dev">juliana.dev</a>
+  WWW: 🌎 <a href="https://juliana.dev">juliana.dev</a>
 </span>
