@@ -1,4 +1,4 @@
-# Hi, I'm Juliana Dias ☕👩‍💻
+# Hi, I'm Juliana Dias ☕👩🏻‍💻
 
 > **#Ruby Software Craftswoman 🔨❤️ | Crafting Ruby code & communities | Co-Author & Technical Reviewer | Admin @ [Ruby Brasil](https://t.me/RubyBrasil) | She/Ela | Made in Goiás 🇧🇷**
 
