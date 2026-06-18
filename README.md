@@ -25,7 +25,7 @@ I’m a **Senior Ruby Software Engineer** and community builder with over a deca
 
 | Area | Focus |
 | :--- | :--- |
-| **Engineering** | Designing & maintaining high-impact Rails systems. |
+| **Engineering** | Designing & maintaining high-impact scalable systems. |
 | **Reviewing** | Shaping technical books and resources for clarity and correctness. |
 | **Community** | Hosting meetups and organizing events like Ruby Summit Brasil. |
 | **Mentorship** | Guiding developers to grow their careers and technical skills. |
